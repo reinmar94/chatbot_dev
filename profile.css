@@ -1,0 +1,294 @@
+
+<style>
+.orange-text {
+    color: darkorange;
+    white-space: pre-line;
+    font-family: Palatino;
+}
+</style>
+
+<h2 class="chakra-heading css-1jb3vzl" style="text-align: center;"><span style="color: orange;">◆~◆ Rey | 30 | He/Him ◆~◆</span></h2>
+
+<details>
+  <summary style="text-align: left;"><span class="image-before-paragraph"></span><span class="orange-text">About me</span><hr></summary>
+  <span class="orange-text">
+  I write these bots as a hobby, personally I like scenarios that are interasting, not plain smut. Because of that, many bots will have Dead Dove themes or angst. But because I am sucker for happy endings, expect those too, along with some heartwarming fluff!
+  
+  </span>
+
+</details>
+<details>
+  <summary style="text-align: left;"><span class="image-before-paragraph"></span><span class="orange-text">About bots</span><hr></summary>
+  <span class="orange-text">
+  Likely all my bots will be my OCs. I try to make all my bots Any POV. I hope this allows for MLM, WLW and WLM roleplay. I imagine I may create strictly Male POV or Female POV WLM when scenario will demand it.
+  Bots I will be creating:
+    ✠ Fluff
+    ✠ Dead dove
+    ✠ Angst
+    ✠ Realistic characters
+    ✠ Sometimes fantasy
+    ✠ Whatever I feel like doing ;)
+
+  Bots I will not creating:
+    ✠ NTR
+    ✠ Strictly MLM bots
+    
+  </span>
+
+</details>
+<details>
+  <summary style="text-align: left;"><span class="image-before-paragraph"></span><span class="orange-text">My favorite creators, check them out!</span><hr></summary>
+  <span class="orange-text">
+  I mean it, they are amazing!
+    ✠ <a href="https://janitorai.com/profiles/2229526e-5a40-4bd1-9f6f-38347853b22a_profile-of-isabellakxx" style="color: tomato">Isabellakxx</a>
+    ✠ <a href="https://janitorai.com/profiles/2e665a73-1a0b-4bb8-a26e-a05b45441c95_profile-of-kakihara" style="color: tomato">Kakihara</a>
+    ✠ <a href="https://janitorai.com/profiles/57037d40-7742-44c6-b569-3e9958d53c74_profile-of-delirenous" style="color: tomato">Delirenous</a>
+    ✠ <a href="https://janitorai.com/profiles/743b2a4b-9a8a-4996-b214-c429377ee980_profile-of-maskedmenmakemepurr" style="color: tomato">Sugar Price</a>
+    ✠ <a href="https://janitorai.com/profiles/9a76d6d5-dc15-4d37-b82d-e643e4781cdf_profile-of-coffee-queen" style="color: tomato">CoffeeQueen</a>
+    ✠ <a href="https://janitorai.com/profiles/a2f7f26d-70fc-4a2a-b742-b32d14c4a10b_profile-of-ambr-0-s-3-e" style="color: tomato">Ambr0s3e</a>
+    ✠ <a href="https://janitorai.com/profiles/c8363879-1bb6-48cf-a425-1bc55be04a81_profile-of-hellscapenerd" style="color: tomato">Hellscapenerd</a>
+  </span>
+
+</details>
+
+
+<style> 
+body::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('https://github.com/reinmar94/chatbot_dev/blob/main/res/A-picturesque-wallpaper-capturing-a-serene-country-lane-bordered-by-towering-trees-guiding-towards-a-charming-cottage-embraced-by-vibrant-gardens.jpg?raw=true');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    z-index: 0;
+    opacity: 1;
+}
+.css-1wpvjoq {
+    /* pfp panel animation */
+    /* background-image: url('https://pics.janitorai.com/anouncements/stars.webp'); */
+    background: url('https://github.com/reinmar94/chatbot_dev/blob/main/res/pexels-azim-islam-460924-1210276.jpg?raw=true');
+    background-color: #ff6200;
+    
+    opacity: 0.8;
+}
+
+.css-1uodvt1 {
+    /* pfp profile card */
+    padding-top: 0px;
+    width: auto; /* or any specific size you want */
+    height: auto; /* Maintain aspect ratio */
+    flex-direction: column;
+    justify-items: center;
+    text-align: center;
+}
+
+
+.chakra-image.css-hsi2ui {
+    /* profile pic */
+    height: auto;
+    width: 300px;
+    border-radius: 40px;
+}
+
+.css-70qvj9 {
+    /* nickname */
+    position: relative;
+    justify-content: center;
+    justify-items: center;
+    text-align: center;
+}
+
+/* Followers count */
+.css-1ciz3n:before {
+    content: "All the love to my ";
+}
+.css-1ciz3n:after {
+    content: "! 💖";
+}
+
+.css-hsi2ui {
+    border: groove rgb(255, 191, 0);
+    animation: pfp_glow 3s ease-in-out infinite alternate;
+}
+
+@keyframes pfp_glow {
+    0% {
+        box-shadow: 0px 0px 40px 12px rgb(249, 167, 53);
+    }
+
+    100% {
+        box-shadow: 0px 0px 30px 10px rgb(254, 121, 19);
+    }
+}
+
+.css-2mfldf,  .css-1ciz3n {
+    /* Name and followers */
+    font-family: Palatino;
+    color: darkorange;
+    text-shadow: 1px 1px rgb(66, 20, 4);
+    size:10px
+}
+
+.css-hjkukh {
+    /* badge centering */
+    position: relative;
+    justify-content: center;
+}
+
+.css-y9k5u7 {
+    /* centers the follow and options button */
+    justify-content: center;
+}
+
+/* follow button */
+.Btn {
+    color: transparent;
+    font-size: 0;
+	padding: 0.4em 1.5em;
+	border: none;
+	outline: none;
+	cursor: pointer;
+	font-family: Palatino;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 20px;
+	position: relative;
+	z-index: 0;
+	border-radius: 10px;
+}
+
+.Btn:before {
+    color: transparent; /* Hide original text */
+    background: linear-gradient(
+        45deg,
+        #fec35d,
+        #fd9f42,
+        #ff9235,
+        #ff7c2a,
+        #ec5b26,
+        #dc4729,
+        #ca3d29,
+        #b3322b,
+        #992b2c,
+        #8a2931
+    );
+    background-size: 400%;
+	z-index: -1;
+    filter: blur(5px);
+	-webkit-filter: blur(5px);
+    animation: button_glow_rim 10s linear infinite;
+    transition: opacity 0.3s ease-in-out;
+    border-radius: 10px;
+}
+
+@keyframes button_glow_rim {
+	0% {
+    	background-position: 0 0;
+	}
+
+	50% {
+    	background-position: 400% 0;
+	}
+
+	100% {
+    	background-position: 0 0;
+	}
+}
+
+.Btn:after {
+    content: "";
+	position: absolute;
+    color: transparent;
+    z-index: -1;
+	width: 100%;
+	height: 100%;
+	background: #000000;
+	left: 0;
+	top: 0;
+	border-radius: 10px;
+	transform: scale(0.95);
+}
+
+.Btn[data-following=false]:after {
+    
+    line-height: 2.5rem; 
+    
+    justify-content: center;
+    color: #fe914e;
+    text-shadow: 1px 1px rgb(179, 92, 10);
+    content: "Be my pookie?";
+}
+.Btn[data-following=true]:after {
+    
+    line-height: 2.5rem;  
+    
+    justify-content: center;
+    color: #fe914e;
+    text-shadow: 1px 1px rgb(179, 92, 10);
+    content: "Yay, pookie!";
+}
+
+.css-dltla {
+    /* char card background/whole card */
+    font-family: Palatino;
+    font-size: 20;
+    background: url('https://github.com/reinmar94/chatbot_dev/blob/main/res/pexels-azim-islam-460924-1210276.jpg?raw=true');
+     /* Blends color and image */
+    background-size:cover;
+}
+
+.css-9r71k4, .css-1ifv49 {
+    /* char name */
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.css-96l1id {
+    /* char description */
+    font-family: "Baskerville", serif;
+    font-size: 18px;
+}
+
+/* username in char card */
+.css-16sb61s, .css-tn683j {
+    font-family: Georgia;
+    font-size: 20px;
+}
+
+/*char picture*/
+.css-147i79y {
+    border-radius: 60px;
+    transform: scale(0.8, 0.8);
+    box-shadow: 2px 2px 10px rgb(50, 1, 56);
+    transition: 1s ease-in;
+    filter: grayscale(30%);
+}
+
+/* Chat count styling */
+.content.css-wexxj8{
+    background-color: rgba(72, 26, 0, 50%);
+}
+
+.css-euh5x6 {
+    color: #fec35d;
+}
+
+.css-147i79y:hover {
+    border-radius: 20px;
+    transform: scale(0.95, 0.95);
+    box-shadow: 2px 2px 10px rgb(255, 158, 30);
+    filter: grayscale(0%);
+    transform: rotate(5deg);
+    transition: 1s ease-out;
+}
+
+/* tags */
+.css-x2gqu0, .css-1ylu7un, .css-hngzgr, .css-hngzgr, .css-ig54u3, .css-1nivdtj {
+    font-family: Palatino ;
+    font-size: 16px;
+}
+</style>

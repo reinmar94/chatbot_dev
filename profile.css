@@ -1,4 +1,60 @@
+
 <style>
+.orange-text {
+    color: darkorange;
+    white-space: pre-line;
+    font-family: Palatino;
+}
+</style>
+
+<h2 class="chakra-heading css-1jb3vzl" style="text-align: center;"><span style="color: orange;">◆~◆ Rey | 30 | He/Him ◆~◆</span></h2>
+
+<details>
+  <summary style="text-align: left;"><span class="image-before-paragraph"></span><span class="orange-text">About me</span><hr></summary>
+  <span class="orange-text">
+  I write these bots as a hobby, personally I like scenarios that are interasting, not plain smut. Because of that, many bots will have Dead Dove themes or angst. But because I am sucker for happy endings, expect those too, along with some heartwarming fluff!
+  
+  </span>
+
+</details>
+<details>
+  <summary style="text-align: left;"><span class="image-before-paragraph"></span><span class="orange-text">About bots</span><hr></summary>
+  <span class="orange-text">
+  Likely all my bots will be my OCs. I try to make all my bots Any POV. I hope this allows for MLM, WLW and WLM roleplay. I imagine I may create strictly Male POV or Female POV WLM when scenario will demand it.
+  Bots I will be creating:
+    ✠ Incest
+    ✠ Fluff
+    ✠ Dead dove
+    ✠ Angst
+    ✠ Realistic characters
+    ✠ Sometimes fantasy
+    ✠ Whatever I feel like doing ;)
+
+  Bots I will not creating:
+    ✠ NTR
+    ✠ Incest or anything illegal
+    ✠ Strictly MLM bots
+    
+  </span>
+
+</details>
+<details>
+  <summary style="text-align: left;"><span class="image-before-paragraph"></span><span class="orange-text">My favorite creators, check them out!</span><hr></summary>
+  <span class="orange-text">
+  I mean it, they are amazing!
+    ✠ <a href="https://janitorai.com/profiles/2229526e-5a40-4bd1-9f6f-38347853b22a_profile-of-isabellakxx" style="color: tomato">Isabellakxx</a>
+    ✠ <a href="https://janitorai.com/profiles/2e665a73-1a0b-4bb8-a26e-a05b45441c95_profile-of-kakihara" style="color: tomato">Kakihara</a>
+    ✠ <a href="https://janitorai.com/profiles/57037d40-7742-44c6-b569-3e9958d53c74_profile-of-delirenous" style="color: tomato">Delirenous</a>
+    ✠ <a href="https://janitorai.com/profiles/743b2a4b-9a8a-4996-b214-c429377ee980_profile-of-maskedmenmakemepurr" style="color: tomato">Sugar Price</a>
+    ✠ <a href="https://janitorai.com/profiles/9a76d6d5-dc15-4d37-b82d-e643e4781cdf_profile-of-coffee-queen" style="color: tomato">CoffeeQueen</a>
+    ✠ <a href="https://janitorai.com/profiles/a2f7f26d-70fc-4a2a-b742-b32d14c4a10b_profile-of-ambr-0-s-3-e" style="color: tomato">Ambr0s3e</a>
+    ✠ <a href="https://janitorai.com/profiles/c8363879-1bb6-48cf-a425-1bc55be04a81_profile-of-hellscapenerd" style="color: tomato">Hellscapenerd</a>
+  </span>
+
+</details>
+
+
+<style> 
 body::before {
     content: "";
     position: fixed;
@@ -16,8 +72,11 @@ body::before {
 }
 .css-1wpvjoq {
     /* pfp panel animation */
-    background-image: url('https://pics.janitorai.com/anouncements/stars.webp');
-    opacity: 0.1;
+    /* background-image: url('https://pics.janitorai.com/anouncements/stars.webp'); */
+    background: url('https://github.com/reinmar94/chatbot_dev/blob/main/res/pexels-azim-islam-460924-1210276.jpg?raw=true');
+    background-color: #ff6200;
+    
+    opacity: 0.8;
 }
 
 .css-1uodvt1 {
@@ -158,18 +217,18 @@ body::before {
 }
 
 .Btn[data-following=false]:after {
-
-    line-height: 2.5rem;
-
+    
+    line-height: 2.5rem; 
+    
     justify-content: center;
     color: #fe914e;
     text-shadow: 1px 1px rgb(179, 92, 10);
     content: "Be my pookie?";
 }
 .Btn[data-following=true]:after {
-
-    line-height: 2.5rem;
-
+    
+    line-height: 2.5rem;  
+    
     justify-content: center;
     color: #fe914e;
     text-shadow: 1px 1px rgb(179, 92, 10);
